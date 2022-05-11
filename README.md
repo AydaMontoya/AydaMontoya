@@ -1,6 +1,8 @@
-# Hola a todos  Soy Ayda
+# Hola a todos  soy Ayda!!! 
 
 Soy Contadora Pública y estudiante de Desarrollo de Software e Ingeniería.
+
+![](https://i.pinimg.com/564x/bf/ac/b6/bfacb67aac144ed0e1725c7d48b58cb7.jpg)
 
 # Sobre mi 
 - Actualmente me encuentro estudiando Desarrollo de Software e Ingeniería con Prospercity y complemetamos nuestros estudios con los cursos que se encuentran en la plataforma [Platzi](https://platzi.com/)
@@ -14,3 +16,5 @@ Soy Contadora Pública y estudiante de Desarrollo de Software e Ingeniería.
 - El Fintech
 - Desarrollar App interesantes y útiles.
 - Tambien me interesa la ciberseguridady el Metaverso.
+
+Image
